@@ -23,3 +23,7 @@ Zero dependencies — Python 3 standard library only.
 
 This is a demo, not a production booking system. The clinic, prices, and
 conversation flow are illustrative examples.
+
+## Learn more
+
+Built by [VisionQuantech](https://visionquantech.com) — see our comparison of the [best AI chatbots for small business in 2026](https://visionquantech.com/blog/best-ai-chatbots-small-business.html).
