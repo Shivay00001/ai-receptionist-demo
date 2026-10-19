@@ -27,3 +27,11 @@ conversation flow are illustrative examples.
 ## Learn more
 
 Built by [VisionQuantech](https://visionquantech.com) — see our comparison of the [best AI chatbots for small business in 2026](https://visionquantech.com/blog/best-ai-chatbots-small-business.html).
+
+## Built by VisionQuantech
+
+This project is built by [VisionQuantech](https://visionquantech.com/) — AI agents, websites & SEO for small business.
+
+Related guides:
+- [AI receptionist service](https://visionquantech.com/blog/ai-receptionist-service.html)
+- [virtual receptionist for small business](https://visionquantech.com/blog/virtual-receptionist-for-small-business.html)
